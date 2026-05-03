@@ -165,7 +165,7 @@ export default function Home() {
 
             <main className={`pt-16 transition-all duration-300 ${isSidebarOpen ? 'lg:pl-80' : 'pl-0 lg:pl-80'
                 }`}>
-                <div className="container mx-auto p-6">
+                <div className="container mx-auto p-6 lg:pl-32">
                     <KanbanBoard />
                 </div>
             </main>
