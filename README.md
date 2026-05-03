@@ -1,6 +1,6 @@
 # 🎯 Kanban Pro - Gestão de Tarefas em Tempo Real
 
-![Kanban Pro Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Kanban+Pro)
+![Kanban Pro Banner](/public/images/tela_inicial.jpg)
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.2.4-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -45,6 +45,20 @@
 |------------|--------|------------|
 | Vitest | 1.6 | Testes unitários |
 | Playwright | 1.42 | Testes E2E |
+
+## 📸 Screenshots
+
+### Tela Inicial
+![Tela Inicial](/public/images/tela_inicial.jpg)
+
+### Tela com Projetos, Membros e Tarefas
+![Tela com Projetos e Tarefas](/public/images/tela_com_projetos_membros_e_tarefas_a_fazer_em_progresso_e_concluido.jpg)
+
+### Criando uma Nova Tarefa
+![Criando Tarefa](/public/images/tela_criando_tarefa.jpg)
+
+### Projetos e Membros Criados
+![Projetos e Membros](/public/images/tela_projeto_e_membro_criado.jpg)
 
 ## ✨ Funcionalidades
 
